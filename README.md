@@ -1,25 +1,23 @@
-### Todo List with React Hooks
+## Todo List with React Hooks
 
-## App will only do a few things
+# App will only do a few things
 
 - Display data, day and time.
 - Display todos in a nice Design fashion.
 - Allow adding todos via input.
 - Delete todos.
 
-## Some benefits are
+# Some benefits are
 
 - Isolating stateful logic, making it easier to test.
 - Sharing stateful logic without render props or higher-order   components.
 - Separating your app’s concerns based on logic, not lifecycle   hooks.
 
-## Skills :-
+# Skills :-
 - React js, React Hooks.
 
 ### Preview
-**Checkout the application here** 
-
-[Demo](https://nikhilambhore01.github.io/todo-list-app/)
+**Checkout the application here** [Demo](https://nikhilambhore01.github.io/todo-list-app/)
 
 
 
